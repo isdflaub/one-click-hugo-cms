@@ -1,6 +1,6 @@
 ---
-title: Mon super site avec Netlify CMS
-subtitle: Support sustainable farming while enjoying a cup
+title: Mon site avec Netlify CMS
+subtitle: Le sous-titre de mon site
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
